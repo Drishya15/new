@@ -1,0 +1,254 @@
+{
+  "buses": [
+    {
+      "id": 1,
+      "fromCity": "Delhi",
+      "toCity": "Mumbai",
+      "departureTime": "08:00 AM",
+      "arrivalTime": "04:00 PM",
+      "fare": 1200,
+      "seatsAvailable": 30,
+      "daysOperated": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 2,
+      "fromCity": "Chennai",
+      "toCity": "Bangalore",
+      "departureTime": "09:30 AM",
+      "arrivalTime": "01:30 PM",
+      "fare": 800,
+      "seatsAvailable": 25,
+      "daysOperated": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 3,
+      "fromCity": "Hyderabad",
+      "toCity": "Pune",
+      "departureTime": "10:00 AM",
+      "arrivalTime": "06:00 PM",
+      "fare": 1000,
+      "seatsAvailable": 20,
+      "daysOperated": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 4,
+      "fromCity": "Kolkata",
+      "toCity": "Chandigarh",
+      "departureTime": "11:30 AM",
+      "arrivalTime": "07:30 PM",
+      "fare": 1500,
+      "seatsAvailable": 35,
+      "daysOperated": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 5,
+      "fromCity": "Ahmedabad",
+      "toCity": "Jaipur",
+      "departureTime": "02:00 PM",
+      "arrivalTime": "06:30 PM",
+      "fare": 900,
+      "seatsAvailable": 15,
+      "daysOperated": ["Monday", "Wednesday", "Friday"]
+    },
+    {
+      "id": 6,
+      "fromCity": "Bangalore",
+      "toCity": "Chennai",
+      "departureTime": "03:30 PM",
+      "arrivalTime": "09:30 PM",
+      "fare": 1200,
+      "seatsAvailable": 25,
+      "daysOperated": ["Tuesday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 7,
+      "fromCity": "Mumbai",
+      "toCity": "Delhi",
+      "departureTime": "05:00 PM",
+      "arrivalTime": "01:00 AM",
+      "fare": 1300,
+      "seatsAvailable": 28,
+      "daysOperated": ["Wednesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 8,
+      "fromCity": "Pune",
+      "toCity": "Hyderabad",
+      "departureTime": "06:30 PM",
+      "arrivalTime": "02:30 AM",
+      "fare": 1100,
+      "seatsAvailable": 18,
+      "daysOperated": ["Thursday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 9,
+      "fromCity": "Chandigarh",
+      "toCity": "Kolkata",
+      "departureTime": "08:00 PM",
+      "arrivalTime": "04:00 AM",
+      "fare": 1600,
+      "seatsAvailable": 32,
+      "daysOperated": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 10,
+      "fromCity": "Jaipur",
+      "toCity": "Ahmedabad",
+      "departureTime": "09:30 PM",
+      "arrivalTime": "03:30 AM",
+      "fare": 950,
+      "seatsAvailable": 14,
+      "daysOperated": ["Tuesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 11,
+      "fromCity": "Mysuru",
+      "toCity": "Chennai",
+      "departureTime": "10:00 PM",
+      "arrivalTime": "04:00 AM",
+      "fare": 1000,
+      "seatsAvailable": 22,
+      "daysOperated": ["Wednesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 12,
+      "fromCity": "Lucknow",
+      "toCity": "Delhi",
+      "departureTime": "11:30 PM",
+      "arrivalTime": "05:30 AM",
+      "fare": 800,
+      "seatsAvailable": 20,
+      "daysOperated": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 13,
+      "fromCity": "Bangalore",
+      "toCity": "Hyderabad",
+      "departureTime": "01:00 AM",
+      "arrivalTime": "07:00 AM",
+      "fare": 1200,
+      "seatsAvailable": 26,
+      "daysOperated": ["Tuesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 14,
+      "fromCity": "Chennai",
+      "toCity": "Mumbai",
+      "departureTime": "02:30 AM",
+      "arrivalTime": "08:30 AM",
+      "fare": 1400,
+      "seatsAvailable": 30,
+      "daysOperated": ["Wednesday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 15,
+      "fromCity": "Pune",
+      "toCity": "Bangalore",
+      "departureTime": "04:00 AM",
+      "arrivalTime": "10:00 AM",
+      "fare": 900,
+      "seatsAvailable": 18,
+      "daysOperated": ["Thursday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 16,
+      "fromCity": "Hyderabad",
+      "toCity": "Chennai",
+      "departureTime": "05:30 AM",
+      "arrivalTime": "11:30 AM",
+      "fare": 1100,
+      "seatsAvailable": 25,
+      "daysOperated": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 17,
+      "fromCity": "Kolkata",
+      "toCity": "Mumbai",
+      "departureTime": "06:00 AM",
+      "arrivalTime": "12:00 PM",
+      "fare": 1300,
+      "seatsAvailable": 28,
+      "daysOperated": ["Tuesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 18,
+      "fromCity": "Chandigarh",
+      "toCity": "Delhi",
+      "departureTime": "07:30 AM",
+      "arrivalTime": "01:30 PM",
+      "fare": 1000,
+      "seatsAvailable": 22,
+      "daysOperated": ["Wednesday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 19,
+      "fromCity": "Jaipur",
+      "toCity": "Pune",
+      "departureTime": "09:00 AM",
+      "arrivalTime": "03:00 PM",
+      "fare": 950,
+      "seatsAvailable": 16,
+      "daysOperated": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 20,
+      "fromCity": "Mysuru",
+      "toCity": "Bangalore",
+      "departureTime": "10:30 AM",
+      "arrivalTime": "04:30 PM",
+      "fare": 1100,
+      "seatsAvailable": 20,
+      "daysOperated": ["Tuesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 21,
+      "fromCity": "Lucknow",
+      "toCity": "Chennai",
+      "departureTime": "11:00 AM",
+      "arrivalTime": "05:00 PM",
+      "fare": 800,
+      "seatsAvailable": 18,
+      "daysOperated": ["Wednesday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 22,
+      "fromCity": "Delhi",
+      "toCity": "Hyderabad",
+      "departureTime": "12:30 PM",
+      "arrivalTime": "06:30 PM",
+      "fare": 1200,
+      "seatsAvailable": 24,
+      "daysOperated": ["Monday", "Thursday", "Saturday"]
+    },
+    {
+      "id": 23,
+      "fromCity": "Mumbai",
+      "toCity": "Chennai",
+      "departureTime": "01:30 PM",
+      "arrivalTime": "07:30 PM",
+      "fare": 1400,
+      "seatsAvailable": 26,
+      "daysOperated": ["Tuesday", "Friday", "Sunday"]
+    },
+    {
+      "id": 24,
+      "fromCity": "Kolkata",
+      "toCity": "Bangalore",
+      "departureTime": "03:00 PM",
+      "arrivalTime": "09:00 PM",
+      "fare": 1100,
+      "seatsAvailable": 20,
+      "daysOperated": ["Wednesday", "Saturday", "Sunday"]
+    },
+    {
+      "id": 25,
+      "fromCity": "Chandigarh",
+      "toCity": "Pune",
+      "departureTime": "04:30 PM",
+      "arrivalTime": "10:30 PM",
+      "fare": 950,
+      "seatsAvailable": 15,
+      "daysOperated": ["Thursday", "Friday", "Sunday"]
+    }
+  ]
+}
